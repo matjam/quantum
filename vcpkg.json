@@ -1,0 +1,20 @@
+{
+  "name": "quantum",
+  "dependencies": [
+    {
+      "name": "fmt"
+    },
+    {
+      "name": "sfml"
+    },
+    {
+      "name": "spdlog"
+    },
+    {
+      "name": "toml11"
+    },
+    {
+      "name": "cxxopts"
+    }
+  ]
+}
